@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html oncontextmenu="return false">
 @yield('head')
-<body style="background-image: url('img/white-net.jpg');" >
+<body style="background-image: url('img/new-white-bg.jpg');" >
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="{{ route('landingpage') }}">Home</a>

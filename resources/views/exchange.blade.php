@@ -52,7 +52,7 @@
         </div>
         {{-- <span id="price"></span> --}}
         <br>
-        <button class="btn btn-success btn-block" onclick="calculate()">Calculate</button>
+        <button class="btn btn-success btn-block" onclick="calculate()">Exchange</button>
     </div>
 @endsection
 
